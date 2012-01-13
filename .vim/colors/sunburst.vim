@@ -97,9 +97,9 @@ hi Title        guifg=#cdcdcd
 hi Title        ctermfg=251
 hi Structure    guifg=#af8fa7
 hi Structure    ctermfg=139
-hi Search       guifg=NONE    guibg=#303030 gui=NONE
+hi Search       guifg=black    guibg=yellow gui=NONE
 hi Search       ctermfg=none  ctermbg=237   cterm=none
-hi IncSearch    guifg=NONE    guibg=#303030 gui=NONE
+hi IncSearch    guifg=black    guibg=yellow gui=NONE
 hi IncSearch    ctermfg=none  ctermbg=237   cterm=none
 hi rubyInstanceVariable    guifg=#3e87e3
 hi rubyInstanceVariable    ctermfg=68
